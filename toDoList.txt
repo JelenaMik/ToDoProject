@@ -1,0 +1,2 @@
+ToDo: Description='go shopping', isDone=false, daysToFinish='4'
+ToDo: Description='get vacation', isDone=true, daysToFinish='5'
